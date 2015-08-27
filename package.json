@@ -1,0 +1,16 @@
+{
+  "name": "charto-polymer-shim",
+  "version": "0.0.1",
+  "description": "Shim for loading Web Components through SystemJS.",
+  "main": "loader.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charto/charto-polymer-shim.git"
+  },
+  "author": "Juha Järvi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charto/charto-polymer-shim/issues"
+  },
+  "homepage": "https://github.com/charto/charto-polymer-shim#readme"
+}
